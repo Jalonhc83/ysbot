@@ -1,0 +1,25 @@
+head {
+  font-style: italic;
+
+
+}
+
+
+
+
+title {
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 400
+
+}
+body {
+  background-color: #A9A9A9
+
+
+}
+head {
+  font-style: normal;
+  font-weight: bolder;
+  pointer-events: all
+}
